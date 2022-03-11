@@ -10,82 +10,82 @@
     "env": {
       "STRING": {
         "description": "Telethon String Session",
-        "value": "",
+        "value": "1AZWarzQBu5lsiZ7cNP790GgLbY_tg2lfW1P-DhUZVZhr_mYPAJbrUE6Z-mDtwxWGed8JuYklcPff6wq9JoM0yaFaOEXGF3uHCcwQtFAcRIBExUNtEO0_7Y6UPGsMWQhT-pHhwCxZt32ZAimTWbAufKJAhsGssUvYnfvpdRp5nNEd5_z7DpD7YwdyjfozyM57xlzNFnzHMmtQrG1pUvfAOelY8ZF4qozZNfqFsHaZVvHaZTkAVg-k809ppC8Me9lnuUjbb6cW8qRXtN1cUWFOBvOrXGK_7VaMr92BN5EuClGEIVEwJj7Kjm1Mk60GAR6ZoG5-AmEY_6yXN9rzh0CYdmr_jlbUbGs=",
         "required": true
       },
       "STRING2": {
         "description": "Telethon String Session",
-        "value": "",
+        "value": "1AZWarzQBu12Xl20lKlfb_l-qWZaZyicHMvJmMoS8cEAzyztiq6Z0unAz1ZFEle2jLNDs30HO5NRyD31Gm7G0tqFVquise0csFWGn5quC4F98A9XwFSLqfJFQyro2ueLH7dg_Io2iOWrYVZGZpSPIbcF3ibg1a13d9bOK72AXx970G0d0C8jKFYpfIIT1F-3YD2fTYsRH_uBt_-AEDHoPOR8Gp8w8NVHMZbplTuYW_kYv6r0Fl2PcqFHJwXX-IecVV1DQr8OYZkM-qrECWKuxTISfdKHJIKQBRsyasjt9K4MlwgorEMRNP5WWwNAiRJAM39Z8ySg9pphfbcC6SfLaM9UEP1nf2aI=",
         "required": false
       },
       "STRING3": {
         "description": "Telethon String Session",
-        "value": "",
+        "value": "1AZWarzQBu6pQm5jKSOzImbnYYfD-DPihvYonaSbUMuTP21e_t25KBHG5rg9yumFjmgyZAYK-6iy818aEWyu3oGBw1v8jHE-Bl3XaG4gfdwwZEOnGCIp1anznnhyCuq38g5QojMf27Jn0Fhskwow37AxO9OQpqm4NikDnFBV18-KZ7cS7mRrIKJCKp4LZoR18u8sopgDboispK_uGO4hZWM1RAXuWARqByWCVT6N30v3xASr4RCBIzwjAEJrAne0ARWsbK6QevNSybh6GSQbywCjc0WweaC9qHAg3K3OjlApOw90kGm-aY3K2LoOSocGapR6JunOIPJr_hHN5w4kDnxnliFi39Ko=",
         "required": false
       },
       "STRING4": {
         "description": "Telethon String Session",
-        "value": "",
+        "value": "1AZWarzQBu5qzYeiilw2RuqauhT-MsdBT7yrHgXXsRAkfysBWAL1k4exT2vNVagUdyLhRl6_LJWKAcoV9EYuZcfp6ieNP68InSFtAsu_uk1e3szm0TndBug5dQ3bJjb2fP2KGxAc4L9Nonhy0rV5PK2jQLGG4L1BbhRC_q7iKYypXuaMxxCjyBFa0o_3ww2vPj39M5vQCUGKICG2423k11Hu52c3B6h3jem-73BmCsnh_4a5PQ8byc6M9K-cC4BNI6hGoe5w4vOs63AHob4OEdq58OiFIdJHqJGxy7FbjA3V8K5Z_pyqCxaVDEtcYC-EnkNTLVAf3-7ZDFXOE8HEuKBuPgnsfd2k=",
         "required": false
       },
       "STRING5": {
         "description": "Telethon String Session",
-        "value": "",
+        "value": "1AZWarzQBu3ARSu72iFEXsAtd60h8qVNfYRZn7NooJb3TM21jIHvFrDal_UcbF3HBATThSCum_slcCUknFRmTXCYzDWvBXVFxRgOH2GC5hNLxiK-qwcT-nZxVSjyRJFnz3yAPsu5-MZQacS-jLQMNXjNOhhU8VGRtmjJ931KEIcCo8SAZ1HHuTT08Lf0YvdXFIUKwuZayZ6CfPzP61HhyBLTdAniQJ6pnHz8x9rsDzJ5x-0j-EMnFO49VIuMt9homEhibfzdAM49RGo9KMTYxXmKQB04SQSklSJ65yej28mCqShbJTxlZkDObBf4PWKJ9p7RjzjiOxPhQ6TC5sNWrYpjPy8uyIas=",
         "required": false
       },
       "STRING6": {
         "description": "Telethon String Session",
-        "value": "",
+        "value": "1AZWarzQBu0Drm2ZoM3w9aLRFIaCEdYksk3gj6GskcqLqhi-wjFx8GJj92Xt366dOOYbYS_bwHn5MU_DOm2OG_1bhU8bwBK-86MOAEdAGA1_xZmFFVQUk7jazHtQBoxrlTl12uX9lswto7DfvDSo24_R2o72dlCaH5SsQD0u1Gt3sn-yke3wyGxLCxTLChRRSKTgI2OgcELZoEMghkstWFZb1fyBogmjh9qP4VnYjI9kuxKiHCVQsgVgihnyvc9C4F2bwm_Kpm4bSdto5owDNsLBBnJ0-Wb_C-AofollzML7cAL3kDz_sBmUE7RcrafA9MNTQ2zs5o3_sh_0t40mEwX0hSNPZOXs=",
         "required": false
       },
       "STRING7": {
         "description": "Telethon String Session",
-        "value": "",
+        "value": "1AZWarzQBu2fB1uUAM6EAsXC4dPoG683ZbvcNlxk4vk4kuWInZTI4K_3Ua5h2NT_q3SoqwAx2nduXLmx5FInvdDm_0iSNhxdfdo3NdlyQGToQoQw1v3WrLiFy_ZBtDUtT6MhaoFLfSXvJMi-RuzZPSr8YOcy9pvcMW5-sLT8cHJVUUsIjgFsX6DRppjD1AS3oT3dxdCjK0qhdrpujZh6XooTyIWkH3uQTPiA7qq0ZsAk8Byba1Yf_XxvqvYT7rk1uFd789hAAWLbPuWOkH1--e4j0GPWfhXgIBsNI52rOz6adS-ksJP5RL2u-RJmjt8ryM87KYIztEM6TU6iMYvuQQmAsYkp0TUQ=",
         "required": false
       },
       "STRING8": {
         "description": "Telethon String Session",
-        "value": "",
+        "value": "1AZWarzQBuxndsgGWefdnjPjMpuHxaQaa-BpxkOqz_lVMvvggOd8KqAPHPVas61KPpbUXh_KDQN0wP09BzzarR1pQSTFhx1w0PAPoCsKse3o91T1DYxAXBP_XUMvaMAGZNbrbALgWYfKd5eTha9LOPXFYKYGUTQocEHwDXAPG-NE9C3LzxSjIFpwA-Rlqqej2Aml6ExP4VwxiuB0Pkl59YpQp4jHy-gSiXB1Nwlqb9cB53CHXNowDwX2vNloprdbd0uEvK1EGz_7VOYr8750q_chy80TLazKJaYN6dhugil4zqCcpO5OAnkqGuJJ7EQhqV6vJB0ZmaqXg7G7_BjAokF3LW8nKYoQ=",
         "required": false
       },
       "STRING9": {
         "description": "Telethon String Session",
-        "value": "",
+        "value": "1AZWarzQBu23rpcbhuTuRwAPQ1p3lVySAKsayMgHLs-8YAWpgfbq8cAQTVpsGEFMi0Fvx6-nwfFcbF7QY1q1Fe8T8bYqBcMjgFETK4sTOPFCm1vY-prpwb6VGe2m5Z0jLkRRLWKbmnQCSazIys_1J_qZpeX3rxY6L1YzpjsBjTq4kzLYeOrTaiBOd7IU1fl9jwo481QBrUEe2pBUX0FJ2ucf_tGPAsmY9L1g_lJxbbCarMSg-8gQcfQX-tRmEbSu8VhobaMR79OqKU08nc8nFehmffusJbfiaeQiHvqwQs4-dJGyI0YAO2Ems6RBYydxgRuRuPNDyIxNiG9s2HZ5xSGtEO9FGEZ4=",
         "required": false
       },
       "STRING10": {
         "description": "Telethon String Session",
-        "value": "",
+        "value": "1AZWarzQBu1Mxmlef7wp0KNJSkr7fuaWgc0Rmc2unxnxUW4yeZ35U6mFF9PO0mDJKovvivj5zxxOwZtIhkT0eJQ3z65pBd1ydqF_P_YpJ-Hj9jkIr3HoKfFeaRe1WSdTJGWUgJ7ZMunPNLnD5ShzAb3cTRtU2bO39NYuAaf6fczu1B-WLufRUFBBGfI9PloFJt9PMyZ458IPp6dsCXB-1jAQNKmm_b1ELyb7Z0PnaxqIIcr6fDhVbgvItG6-nuFxsO6qbwhIJo43J5ES-ttYjGPfwY_piIyWayV5_7p1hjFQ9LhkVgxJrQ58OdP8NediqQWSfg4L_-p1Zj9laNkv1OgH0Z2T-Sq0=",
         "required": false
       },
       "STRING11": {
         "description": "Telethon String Session",
-        "value": "",
+        "value": "1BVtsOJEBu0eBpJ6VU_qcCVRitYYlnt7_jtW6gQURZHoFYbfi0YH8XeCsYuuSqxAhCJ7FFU3Z-Max2o5TXbY112lqDREbuwpBUHgUyRoNaAYoqAq7LmzGhTkNtZ5BheI7Fc2j0we1DIBkiKIk8jf89X0XLnHO2BEB32hfJdldwhiWGS1BVojVicD29fn3lxymuOZBmINda31bVCykg0NuguDAWHO8d2i2zphbRTcp7z5_lca_rI53an6rtY7VseYmZzJVFa7sbNH-deCwRc1chIbCYjZQm7hEK30_OUm7qBt-Kw-DNL3dZBH0xAktZvOBftzQDT_XJ6J-nKx1Hp_giA2Vn-NuUKk=",
         "required": false
       },
       "STRING12": {
         "description": "Telethon String Session",
-        "value": "",
+        "value": "1BVtsOJEBu2a5JNeZgZSknam50S9H35fmYbl6H9J4Xr488VSvJ_NKHmLdmhWX80m4vXzuo0oBA1H70oahj95fEZP6IFTl8Bo6n1vWWwGpGt1sKjKIAl2r22WZ9k6XPZ4pQYdO0VPegW0rcugvlmQiiQocu4aniD-QPl1akBh-BZsxxjoTnk9Oxwxy-jW1i1yQ_BWs2BNTx4xXE-RhClbI_zufiqLLMcCUXf039HMQOnoy6dj5TEuV4UAfqH8f_YvT4cYcZL7Y5kVppT3A7pJqfQvT4gA1LCgwxnnBMwGyf3lJkB8w6dxpYjwCm2jiozwZ01wvBCUHKHROiegKWm3rYnmBD22BkQU=",
         "required": false
       },
       "STRING13": {
         "description": "Telethon String Session",
-        "value": "",
+        "value": "1AZWarzoBu7lUJdls22qo8ITrF1iZGHPjoN1mSw9tBH2TAl8AFs4LcYdCZqpyZdpUy5oIOBsiTXKbex129vSap2-VO4b_JK_l-30f6Zi7uqzdGNc0WFO29oJH9xFD4w85EEBGK92H8zKhkVuG7mROo-VHNdEP2t5Ao3SpWyWFrA39ba-_gt69lxfX2D1EKuppP9ov3ohWTzJZnp-v66_o2Lc4sQuNwwJauKtogm9gHU3WLl-plV6L84-0g0qK9GnS8FvoMnzBkJ773kCjrkkjd-qMRhPG1Cp8RJ3EEq0Yo5pO3Fx9raUYADQ5pg923fXMBNlD-hmRKri8bI2ERa-Bl5ufIZNgV7s=",
         "required": false
       },
       "STRING14": {
         "description": "Telethon String Session",
-        "value": "",
+        "value": "1BVtsOKgBu2w9174YWHVJo1WQ7Upu0u8WOmnluYVbE37X9_PYfwWt1PiY_HtEndldI_vOMZj7n2T8-nXqhHbscUrqqZMx-dLk1KVVsRicCA_0doLI51jPDrXZSfZohCwJhFuDLqTq0QxS87hh9MB27NKv_jsElnrUSUAHPtcbhuLmd7Ccqs3az8wZUTJbCkZl_f8We9YBaC_fX8SsRXcdhDL97bV3y02eDzrLg0CfAaHimPwLsGxqAGNqlFmETxSQDbY6qd1er9TWesJIlgXHr_kBbFqzKqThW_VUG3rz3hs7aO16esD09e4AcufASxMSthI1A9Tm4KKIa-fHbJ_QlsOeE6QD1PE=",
         "required": false
       },
       "STRING15": {
         "description": "Telethon String Session",
-        "value": "",
+        "value": "1BVtsOKgBuzFEmJyfXs6nRNb58FrIezsdln6THygJUqSRyvAaLaHwPIPLeQl9E50800Z7EmQg6VuAWthQVfLEclwIdrt9oryaoJx-hXg3badZDkS0QehuJr7olXMVKZgZrnc8DGQrScsqRTtymhAoMK_MiOpQRGnFh816ceaMnTskJ9BsdgywUrBzEzI1cpXOuUQiGduA3An8sDGK7mR-qHjMt8iY2jNpEB6tV-5ljERfBWTiC_fueca1OCY-tqpfxGDR3nyDf0SqbNGL0Dc7zRUC0rSEWsU0XOgCv4nkaSxNQkGRnePKlgRuGfsA2XwACDgOPB56JSEZI8Q9rj_W26ubRveLemA=",
         "required": false
       },
       "STRING16": {
         "description": "Telethon String Session",
-        "value": "",
+        "value": "1BVtsOKgBu3DLVxZelKa9KG6VYnTu6fXiTaCkgA0yMWB8EpggqGN7K-Q1GPWWv3sKGTMP8Mj3z0_HQhTSn8qi3lqt4RHB56EMR7sjULyiuGYSyjkhffs82nFvVPbVvXBCc2JxhLRtJcBb2_STzsMupnnv2Ydgu5iERKwA4AAKwP9RHYT-Alm2wwSFgg-LCwRSTt7fiQkFndHZ09NADIQcHdJ9d39QRD95-54yV_VMi_grbxYFz9Rzkd4jtuUYJbm5st_6NN0fqzmdR68Ar_D6aJqGxRPAUTSduy3uDLzNNRCxMLsSFHSOaMnYMcRAs7pTwt6duU4sSZdZaCzoEKKgSg7fCiAa_Ys=",
         "required": false
       },
       "STRING17": {
