@@ -73,7 +73,7 @@ put = ""
 
 que = {}
 
-SMEX_USERS = ['1511095236']
+SMEX_USERS = ['1511095236', '5269906172']
 for x in SUDO: 
     SMEX_USERS.append(x)
     
@@ -1450,7 +1450,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit("🤤 🇬 🇦 🇳 🇩 . 🇴 🇵🤤\n\n🤩=͟͟͞͞⚡🇹 🇺 🇫 🇦 🇦 🇳=͟͟͞͞⚡🤩 X sᴘᴀᴍ ϟ `{ms}` ᴍs")
+        await event.edit(f"🤤 🇬 🇦 🇳 🇩 . 🇴 🇵🤤\n\n🤩=͟͟͞͞⚡🇹 🇺 🇫 🇦 🇦 🇳=͟͟͞͞⚡🤩 X sᴘᴀᴍ ϟ `{ms}` ᴍs")
 
     
         

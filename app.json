@@ -136,17 +136,17 @@
       },
       "API_ID": {
         "description": "Telethon String Session",
-        "value": "11280680",
+        "value": "",
         "required": true
       },
       "API_HASH": {
         "description": "Api Hash",
-        "value": "3397c59f3d6961e43121d373257dbff8",
+        "value": "",
         "required": true
       },
       "SUDO": {
         "description": "Sudo Users Id",
-        "value": "1511095236",
+        "value": "",
         "required": true
       }
   },
